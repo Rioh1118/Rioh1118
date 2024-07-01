@@ -57,6 +57,10 @@ I have been actively working with a clear goal of acquiring a broad range of IT 
 - Recently, I have been frequently using Golang because of its intuitive nature with goroutines and its fast execution speed.
 - I also use Rust extensively because I appreciate its lightweight nature and ownership model. Although I struggle with its complex concepts, I am committed to mastering them.
 - Backend technology is the topic I am most eager to learn. I have been designing websites using Adobe XD and Figma and starting projects, but I often struggle with backend concepts such as database design and URI structuring.
+<br>
+<br>
+<br>
+
 
 <div style="display: flex; justify-content: space-between;">
 
