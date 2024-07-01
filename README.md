@@ -37,4 +37,28 @@ Almost all of the project for my skill development.
 
 **Third Year:**
 - In my third year, I worked with Python to visualize and transform audio, binarize images, and apply similar processing to videos.
-- The courses utilized libraries such as NumPy, LibROSA, and OpenCV.
+- The courses utilized libraries such as NumPy, Librosa, and OpenCV.
+
+### Self-Study
+
+I have been actively working with a clear goal of acquiring a broad range of IT knowledge.
+
+**Data Science:**
+- I developed an interest in data science and studied visualization in Python using libraries such as NumPy, Pandas, Seaborn, and Matplotlib through books.
+- During this time, I studied supervised learning and used libraries to perform multiple regression analysis to predict bento sales from weather and date-time data, and logistic regression to predict whether a patient had cancer based on physical data.
+- Later, I took Andrew Ng's machine learning and deep learning courses on Coursera, implemented supervised learning entirely in NumPy, and covered mathematical topics such as learning rate and regularization intuition. I also implemented simple Neural Networks and Convolutional Neural Networks to solve image classification problems.
+
+**Web Development:**
+- I learned about web technologies through Coursera's IBM Full Stack Engineer course.
+- This course covered general web topics such as how a client requests to a DNS (and stores it in the cache), then sends a request to the returned IP address, accessing each server via a load balancer, and cloud technologies.
+- I encountered React during this time, but since the course covered older and more complex concepts such as class components and Redux, I studied further through Jonas Schmedtmann's Udemy course.
+
+**Golang and Rust:**
+- Recently, I have been frequently using Golang because of its intuitive nature with goroutines and its fast execution speed.
+- I also use Rust extensively because I appreciate its lightweight nature and ownership model. Although I struggle with its complex concepts, I am committed to mastering them.
+- Backend technology is the topic I am most eager to learn. I have been designing websites using Adobe XD and Figma and starting projects, but I often struggle with backend concepts such as database design and URI structuring.
+-
+- ![Web 1366 – 1](https://github.com/Rioh1118/Rioh1118/assets/90512887/b2c13cd4-0b98-49bb-bda1-252ecba4cc03)
+![index](https://github.com/Rioh1118/Rioh1118/assets/90512887/a2a33f53-4b2f-4cd6-9e30-005a02db9ffc)
+
+
