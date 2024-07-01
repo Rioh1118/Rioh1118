@@ -1,11 +1,14 @@
-## Hi there 👋
+# 😎Rioh1118
 
-<!--
-**Rioh1118/Rioh1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Third-year student at university of science**
 
-Here are some ideas to get you started:
+I'm student aspiring to become engineer(frontend/backend/infrastracture).
+Almost all of the project for my skill development.
 
-- 🔭 I’m currently working on ...
+### ⛏️ Languages and Tools
+<img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+- 🔭 I’m currently working on ...　
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
