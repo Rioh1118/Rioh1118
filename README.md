@@ -69,3 +69,4 @@ I have been actively working with a clear goal of acquiring a broad range of IT 
 
 </div>
 
+<br>
