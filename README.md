@@ -57,8 +57,11 @@ I have been actively working with a clear goal of acquiring a broad range of IT 
 - Recently, I have been frequently using Golang because of its intuitive nature with goroutines and its fast execution speed.
 - I also use Rust extensively because I appreciate its lightweight nature and ownership model. Although I struggle with its complex concepts, I am committed to mastering them.
 - Backend technology is the topic I am most eager to learn. I have been designing websites using Adobe XD and Figma and starting projects, but I often struggle with backend concepts such as database design and URI structuring.
--
-- ![Web 1366 – 1](https://github.com/Rioh1118/Rioh1118/assets/90512887/b2c13cd4-0b98-49bb-bda1-252ecba4cc03)
-![index](https://github.com/Rioh1118/Rioh1118/assets/90512887/a2a33f53-4b2f-4cd6-9e30-005a02db9ffc)
 
+<div style="display: flex; justify-content: space-between;">
+
+<img src="https://github.com/Rioh1118/Rioh1118/assets/90512887/b2c13cd4-0b98-49bb-bda1-252ecba4cc03" alt="Web 1366 – 1" width="45%" style="margin-right: 10px;">
+<img src="https://github.com/Rioh1118/Rioh1118/assets/90512887/a2a33f53-4b2f-4cd6-9e30-005a02db9ffc" alt="index" width="45%" style="margin-left: 10px;">
+
+</div>
 
