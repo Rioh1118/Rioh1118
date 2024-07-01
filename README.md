@@ -46,7 +46,7 @@ I have been actively working with a clear goal of acquiring a broad range of IT 
 **Data Science:**
 - I developed an interest in data science and studied visualization in Python using libraries such as NumPy, Pandas, Seaborn, and Matplotlib through books.
 - During this time, I studied supervised learning and used libraries to perform multiple regression analysis to predict bento sales from weather and date-time data, and logistic regression to predict whether a patient had cancer based on physical data.
-- Later, I took Andrew Ng's machine learning and deep learning courses on Coursera, implemented supervised learning entirely in NumPy, and covered mathematical topics such as learning rate and regularization intuition. I also implemented simple Neural Networks and Convolutional Neural Networks to solve image classification problems.
+- Later, I took Andrew Ng's machine learning and deep learning courses on Coursera, implemented supervised learning entirely in NumPy, and covered mathematical topics such as learning rate and regularization intuition. I also implemented simple Neural Networks and Convolutional Neural Networks to solve image classification problems.[I uploaded the files from my Coursera studies that were saved locally to the repository.](https://github.com/Rioh1118/cousera-repo)
 
 **Web Development:**
 - I learned about web technologies through Coursera's IBM Full Stack Engineer course.
