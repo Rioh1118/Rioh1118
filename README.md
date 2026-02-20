@@ -20,26 +20,6 @@
 -🧑🏻‍🔬  I have been actively working with a clear goal of acquiring a broad range of IT knowledge. At university, I am mainly studying statistics, coding theory(abstract mathematics), multimedia programming with Python, and the implementation of TCP/IP and UDP using Java.
 
 
-### University Studies
-
-**First Year:**
-- In my first year at university, I learned C language.
-- I studied the basics of data formats such as stack and heap, references and copies, and ASCII.
-- I implemented fundamental data structures in C, including linked lists, binary trees, heaps, stacks, queues, and hash tables.
-
-**Second Year:**
-- In my second year, I studied Java.
-- I learned about Object-Oriented Programming (OOP) and had assignments to create GUI applications using JavaFX.
-- I implemented simple games like Pac-Man and Othello.
-- Additionally, I learned about multithreading and implemented merge sort using multiple threads.
-
-**Third Year:**
-- In my third year, I worked with Python to visualize and transform audio, binarize images, and apply similar processing to videos.
-- The courses utilized libraries such as NumPy, Librosa, and OpenCV.
-
-### Self-Study
-
-I have been actively working with a clear goal of acquiring a broad range of IT knowledge.
 
 **Data Science:**
 - I developed an interest in data science and studied visualization in Python using libraries such as NumPy, Pandas, Seaborn, and Matplotlib through books.
