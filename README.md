@@ -1,9 +1,6 @@
 # 😎Rioh1118
 
-**`Third-year student at university of science`**
 
-I'm student aspiring to become engineer(frontend/backend/infrastracture).
-Almost all of the project for my skill development.
 
 ### ⛏️ Languages and Tools
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
